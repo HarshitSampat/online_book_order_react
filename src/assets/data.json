@@ -1,0 +1,26 @@
+{
+    "books": [
+      {
+        "title": "Phycology of Money",
+        "author": "Author 1",
+        "price": 25.99,
+        "stock": 10,
+        "image": "https://res.cloudinary.com/dip3poftg/image/upload/v1695126281/tutorial-examples-testing/psychologyofmoney_h8swzv.jpg"
+      },
+      {
+        "title": "Atomic Habits",
+        "author": "Author 2",
+        "price": 19.99,
+        "stock": 5,
+        "image": "https://res.cloudinary.com/dip3poftg/image/upload/v1695126281/tutorial-examples-testing/atomic_habits_ny788j.jpg"
+      },
+      {
+        "title": "Veronica Decdide to die",
+        "author": "Author 3",
+        "price": 32.99,
+        "stock": 3,
+        "image": "https://res.cloudinary.com/dip3poftg/image/upload/v1695126281/tutorial-examples-testing/Veronica_Decide_to_die_nc1bqd.jpg"
+      }
+    ]
+  }
+  
